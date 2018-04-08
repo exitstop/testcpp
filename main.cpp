@@ -4,6 +4,7 @@
  
 int main()
 {
+    // add comment
     std::string str = "hello world";
     std::cout << "0: "<< str.length()  << std::endl;
     std::cout << "1: "<< str.compare("hello")  << std::endl;
